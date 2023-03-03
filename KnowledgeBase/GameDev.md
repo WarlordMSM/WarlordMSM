@@ -1,0 +1,2 @@
+- [My YT Playlist: Game Design](https://www.youtube.com/playlist?list=PLAdUrtgCC4a3xeIg2iUoOS1jAcWu8eK9s)
+- [Tom Looman's Unreal Engine Learning Resources](https://www.tomlooman.com/unreal-engine-resources/)
